@@ -14,10 +14,10 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/zeppelin-grunt"
-url: "http://gdg-x.github.io"
-permalink: '/blog/:title'
+baseurl: "/ExFest-2016-www"
+url: "http://gdg-caceres.github.io"
+permalink: '/'
 
 # i18n
-languages: ["en", "uk"]
+languages: ["es"]
 exclude_from_localizations: ["js", "img", "css"]

@@ -136,15 +136,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="77.435402"
-     inkscape:cy="73.978043"
+     inkscape:cx="31.649406"
+     inkscape:cy="130.54659"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1710"
-     inkscape:window-height="928"
-     inkscape:window-x="1473"
-     inkscape:window-y="50"
+     inkscape:window-width="1832"
+     inkscape:window-height="975"
+     inkscape:window-x="1324"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
      units="px" />
   <metadata
@@ -155,7 +155,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -449,17 +449,90 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.05907059px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="58.211102"
-       y="789.15808"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.03125px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.915676"
+       y="957.35828"
+       id="text6520"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97918459,1.0212579)"><tspan
+         sodipodi:role="line"
+         id="tspan6522"
+         x="41.915676"
+         y="957.35828">Evento 2016</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.86030006px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.669628"
+       y="814.32379"
        id="text6516-0"
        sodipodi:linespacing="89.999998%"
-       transform="scale(0.88692087,1.1274963)"><tspan
+       transform="scale(0.91441203,1.0935989)"><tspan
          sodipodi:role="line"
          id="tspan6518-4"
-         x="58.211102"
-         y="789.15808"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">ExFest</tspan></text>
+         x="44.669628"
+         y="814.32379">ExFest 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.03125px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.434357"
+       y="1019.4359"
+       id="text6520-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97918459,1.0212579)"><tspan
+         sodipodi:role="line"
+         id="tspan6522-9"
+         x="42.434357"
+         y="1019.4359">Evento 2016</tspan></text>
+    <image
+       y="899.31946"
+       x="41.727184"
+       id="image4290"
+       xlink:href="data:image/png;base64,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
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="19"
+       width="111" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -467,98 +540,27 @@
      inkscape:label="Capa 2">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="57.072029"
-       y="80.441528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.86030006px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.312721"
+       y="81.088112"
        id="text6516"
        sodipodi:linespacing="89.999998%"
        transform="scale(0.91441203,1.0935989)"><tspan
          sodipodi:role="line"
          id="tspan6518"
-         x="57.072029"
-         y="80.441528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">ExFest</tspan></text>
+         x="44.312721"
+         y="81.088112">GDG ExFest</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.86030006px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="57.428925"
-       y="140.00301"
+       x="44.669624"
+       y="139.03311"
        id="text6516-00"
-       sodipodi:linespacing="90%"
+       sodipodi:linespacing="89.999998%"
        transform="scale(0.91441203,1.0935989)"><tspan
          sodipodi:role="line"
-         x="57.428925"
-         y="140.00301"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:90%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;writing-mode:lr;text-anchor:start"
-         id="tspan4523">ExFest</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="46.315498"
-       y="114.81445"
-       id="text4318"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4320"
-         x="46.315498"
-         y="114.81445" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="71.06424"
-       y="180.22183"
-       id="text4527"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4529"
-         x="71.06424"
-         y="180.22183"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e8e8e8;fill-opacity:1">2016</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-66.821594"
-       y="93.247688"
-       id="text4552"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4554"
-         x="-66.821594"
-         y="93.247688" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-60.811184"
-       y="97.490334"
-       id="text4556"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4558"
-         x="-60.811184"
-         y="97.490334"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.003571"
-       y="115.87511"
-       id="text4560"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4562"
-         x="70.003571"
-         y="115.87511"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1">2016</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="68.589363"
-       y="50.467731"
-       id="text4606"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4608"
-         x="68.589363"
-         y="50.467731"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1">2016</tspan></text>
+         id="tspan6518-8"
+         x="44.669624"
+         y="139.03311">GDG ExFest</tspan></text>
   </g>
 </svg>

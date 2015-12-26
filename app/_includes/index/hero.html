@@ -6,10 +6,27 @@
         {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
         <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.[site.lang].index.hero.typeoutFallback }}</span>{{ heroText[1] }}</h1>
         <p>{{ site.data.[site.lang].index.hero.eventDate }}</p>
-            {% for button in site.data.[site.lang].index.hero.buttons %}
-        <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+        {% for button in site.data.[site.lang].index.hero.buttons %}
+          <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
         {% endfor %}
+        <h1 id="counthero"></h1>
     </div>
+
+    <script>
+      var timer = document.getElementById("counthero")
+      var final = Date.parse("Sat, 11 Jun 2016 17:30:00 GMT+0100")
+      var updateCount = function(){
+        var restante = final - Date.now();
+        var seconds = Math.floor((restante / 1000) % 60);
+        var minutes = Math.floor((restante / 1000 / 60) % 60);
+        var hours = Math.floor((restante / (1000 * 60 * 60)) % 24);
+        var days = Math.floor(restante / (1000 * 60 * 60 * 24));
+        timer.innerHTML = days + "d " + hours + "h " + minutes + "m "+ seconds + "s";
+      }
+      updateCount();
+      setInterval(updateCount, 1000);
+    </script>
+
     <a href="#about" class="explore">
         <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
             <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-arrow-down"></use>

@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logos.svg">
+   sodipodi:docname="logos2.svg">
   <defs
      id="defs4">
     <radialGradient
@@ -137,14 +137,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
      inkscape:cx="77.435402"
-     inkscape:cy="73.978043"
+     inkscape:cy="88.120179"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1710"
-     inkscape:window-height="928"
-     inkscape:window-x="1473"
-     inkscape:window-y="50"
+     inkscape:window-width="1832"
+     inkscape:window-height="975"
+     inkscape:window-x="1316"
+     inkscape:window-y="94"
      inkscape:window-maximized="0"
      units="px" />
   <metadata
@@ -155,7 +155,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -449,17 +449,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.05907059px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="58.211102"
-       y="789.15808"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.97964478px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.269611"
+       y="771.80322"
        id="text6516-0"
        sodipodi:linespacing="89.999998%"
-       transform="scale(0.88692087,1.1274963)"><tspan
+       transform="scale(0.85287213,1.1725087)"><tspan
          sodipodi:role="line"
          id="tspan6518-4"
-         x="58.211102"
-         y="789.15808"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">ExFest</tspan></text>
+         x="47.269611"
+         y="771.80322">ExFest 2016</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -468,29 +467,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="57.072029"
-       y="80.441528"
+       x="43.539433"
+       y="92.726677"
        id="text6516"
        sodipodi:linespacing="89.999998%"
        transform="scale(0.91441203,1.0935989)"><tspan
          sodipodi:role="line"
          id="tspan6518"
-         x="57.072029"
-         y="80.441528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">ExFest</tspan></text>
+         x="43.539433"
+         y="92.726677">ExFest 2016</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.86030006px;line-height:89.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="57.428925"
-       y="140.00301"
+       x="56.65564"
+       y="141.29617"
        id="text6516-00"
        sodipodi:linespacing="90%"
        transform="scale(0.91441203,1.0935989)"><tspan
          sodipodi:role="line"
-         x="57.428925"
-         y="140.00301"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:90%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;writing-mode:lr;text-anchor:start"
-         id="tspan4523">ExFest</tspan></text>
+         id="tspan6518-8"
+         x="56.65564"
+         y="141.29617"
+         style="-inkscape-font-specification:'Arial Black, Normal';font-family:'Arial Black';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:90%">ExFest</tspan><tspan
+         sodipodi:role="line"
+         x="56.65564"
+         y="159.8613"
+         id="tspan4238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:90%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr;text-anchor:start">2016</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -502,63 +505,5 @@
          id="tspan4320"
          x="46.315498"
          y="114.81445" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="71.06424"
-       y="180.22183"
-       id="text4527"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4529"
-         x="71.06424"
-         y="180.22183"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e8e8e8;fill-opacity:1">2016</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-66.821594"
-       y="93.247688"
-       id="text4552"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4554"
-         x="-66.821594"
-         y="93.247688" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-60.811184"
-       y="97.490334"
-       id="text4556"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4558"
-         x="-60.811184"
-         y="97.490334"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.003571"
-       y="115.87511"
-       id="text4560"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4562"
-         x="70.003571"
-         y="115.87511"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1">2016</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="68.589363"
-       y="50.467731"
-       id="text4606"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4608"
-         x="68.589363"
-         y="50.467731"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1">2016</tspan></text>
   </g>
 </svg>

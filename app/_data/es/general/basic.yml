@@ -1,0 +1,35 @@
+# Site Settings
+title: "GDG ExFest Cáceres 2016"
+email: "gdgcaceres@gmail.com"
+description: "GDG ExFest Cáceres, tu evento dedicado al desarrollo."
+enablePreloader: false
+
+# Head
+metaKeywords: "evento, gdg, devfest, google, programming, android, chrome, developers, cáceres, Extremadura, España, polymer"
+twitterAccount: "@gdgcaceres"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+themeColor: "#03a9f4"
+
+# Organizer Info
+organizerName: "GDG Cáceres"
+organizerAlternateName: "Google Developer Group Cáceres"
+organizerDescription: "Grupo abierto y voluntario de desarrolladores a los que les encanta crear proyectos y compartir conocimientos sobre diferentes tecnologías con la comunidad."
+organizerEmail: "gdgcaceres@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://gdgcaceres.es"
+
+# Documents
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4pButton: "Become a speaker"
+
+# Varibles
+googleAnalyticsTrackingId: ""
+webtoolsSiteVerification: ""
+disqusShortName: ""
+
+# i18n
+languages:
+  en: English
+  es: Español

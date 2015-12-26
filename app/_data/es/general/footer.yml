@@ -1,0 +1,20 @@
+
+socialLinks:
+ - {link: "https://plus.google.com/communities/107200643218205149754", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgcaceres", icon: "twitter"}
+ - {link: "https://github.com/GDG-Caceres", icon: "github"}
+ - {permalink: "/feed.xml", icon: "rss"}
+blocks:
+ -
+  title: "Enlaces"
+  links:
+   - {link: "http://gdgcaceres.es", text: "GDG Cáceres"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacto"
+  links:
+   - {link: "mailto:gdgcaceres@gmail.com", text: "gdgcaceres@gmail.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Codigo de conducta"}

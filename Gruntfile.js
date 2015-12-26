@@ -10,8 +10,8 @@ module.exports = function(grunt) {
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'zeppelin-grunt',
-            git_repo: 'git@github.com:gdg-x/zeppelin-grunt.git',
+            baseurl: 'ExFest-2016-www',
+            git_repo: 'https://github.com/GDG-Caceres/ExFest-2016-www.git',
             branch: 'gh-pages'
         },
         watch: {

@@ -1,0 +1,7 @@
+links:
+ - {permalink: "/", text: "Home"}
+ - subText: "Social"
+   links:
+    - {link: "http://gdgcaceres.es", text: "Web GDG Cáceres"}
+    - {link: "https://plus.google.com/communities/107200643218205149754", text: "+GDGCáceres"}
+    - {link: "https://twitter.com/gdgcaceres", text: "@gdgcaceres"}
