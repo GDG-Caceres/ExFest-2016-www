@@ -1,5 +1,7 @@
 image: "hero.jpg"
 title: "ExFest <typeout> 2016"
-eventDate: "11 y 12, Junio 2016"
+eventDate: "4 y 5, Junio 2016"
 typeoutTextValues: '"", "España", "Extremadura", "Cáceres"'
 typeoutFallback: "Cáceres"
+buttons:
+ - {link: "http://goo.gl/forms/7gb3BYvB6Z", text: "Conviértete en Sponsor"}

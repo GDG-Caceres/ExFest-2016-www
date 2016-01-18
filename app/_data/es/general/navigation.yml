@@ -5,3 +5,7 @@ links:
     - {link: "http://gdgcaceres.es", text: "Web GDG Cáceres"}
     - {link: "https://plus.google.com/communities/107200643218205149754", text: "+GDGCáceres"}
     - {link: "https://twitter.com/gdgcaceres", text: "@gdgcaceres"}
+bottomLinks:
+ - {link: "http://goo.gl/forms/7gb3BYvB6Z", text: "Conviértete en Sponsor"}
+rightButtons:
+ - {link: "http://goo.gl/forms/7gb3BYvB6Z", text: "Conviértete en Sponsor"}
