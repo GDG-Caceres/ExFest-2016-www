@@ -8,7 +8,8 @@
   thumbnailUrl: jorge-barroso.jpeg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://plus.google.com/+JorgeJBarroso"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
 -
   id: 4
   name: "Pedro Vicenete"
@@ -19,24 +20,9 @@
   thumbnailUrl: pedro-vicente.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 5
-  name: "Davide Mendolía"
-  surname: ""
-  company: "Karumi"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/113580734717729548552"}
+    - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
+    - {name: "github", link: "https://github.com/pedrovgs"}
 -
   id: 6
   name: "Saul Molinero"
@@ -44,12 +30,14 @@
   company: ""
   title: "Android developer"
   bio: "Saul Molinero es una persona entusiasta entusiasmado por el diseño y desarrollo móvil, actualmente trabaja para una compañía basada en New York basada en el desarrollo android nativo. Saúl disfruta creando y compartiendo contenido con las comunidades de desarrolladores. Saul también participa activamente en varios GDGs (Google Developers Groups) siendo fundador del GDG de Santiago de Compostela y organizador del GDG Vigo."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: saul-molinero.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group ", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+SaulMolineroMalvido"}
+    - {name: "twitter", link: "https://twitter.com/_saulmm"}
+    - {name: "github", link: "https://github.com/saulmm"}
 -
   id: 7
   name: "Abdón Rodríguez"
@@ -63,35 +51,33 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AbdonRodriguezDavila"}
+    - {name: "twitter", link: "https://twitter.com/abdonrd"}
 -
-    id: 8
-    name: "Ismael Faro"
-    surname: ""
-    company: "IBM"
-    title: ""
-    bio: "I'm a Developer Advocate that love play with the last technologies and try to change the point of view about the how and when use the Artificial Intelligence and how it can help to you to create smarter developments.
+  id: 8
+  name: "Ismael Faro"
+  surname: ""
+  company: "IBM"
+  title: ""
+  bio: "I'm a Developer Advocate that love play with the last technologies and try to change the point of view about the how and when use the Artificial Intelligence and how it can help to you to create smarter developments.
 
 In my last projects I use this technologies to improve the user experience and explore new ways of human and computer interaction.
 
 In fact I work in IBM Research Zurich trying to discover this new world."
-    thumbnailUrl: ismael-faro.webp
-    rockstar: true
-    ribbon:
-      - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-    social:
-      - {name: "google-plus", link: "https://plus.google.com/+ismaelfaro"}
--
-  id: 7
-  name: "Dmytro Danylyk"
-  surname: ""
-  company: "Timee"
-  title: ""
-  bio: "Hello. I am Android Google Developer Expert. I live in Lviv - a quaint and beautiful city. I am passionate about android and flat design.
-More: http://www.dmytrodanylyk.com/about"
-  thumbnailUrl: dmytro-danylyk.webp
+  thumbnailUrl: ismael-faro.webp
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+AbdonRodriguezDavila"}
+    - {name: "google-plus", link: "https://plus.google.com/+ismaelfaro"}
+    - {name: "twitter", link: "https://twitter.com/ismaelfaro"}
+-
+  id: 9
+  name: "Joaquin Engelmo"
+  surname: ""
+  company: "Tuenti"
+  title: ""
+  bio: ""
+  thumbnailUrl: joaquin-engelmo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/kinisoftware"}

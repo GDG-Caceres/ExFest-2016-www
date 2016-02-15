@@ -11,49 +11,45 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
+  title: "Programando en diferido"
+  description: "Es por todos conocido que uno de los mayores problemas de Android es trabajar fuera del hilo de UI. Durante años hemos descubierto varias formas de hacerlo, desde recomendaciones por parte de Android como AsyncTask o Services hasta librerías basadas en el Reactive Manifesto como rxJava o JDeferred. El estándar de la industria es hacer todo asíncrono pero, ¿estamos seguros de que esta es la mejor solución?"
+  subtype: presentation
+  speakers: [3]
+  language: es
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "World-Class Testing Development Pipeline for Android"
+  description: "Test our Android applications is not an easy task. When we start writing tests most of the time we don’t know what to test and how, our code is not as testable as it should, we write tests but sometimes they are flaky or test nothing. In this talk we are going to talk about what to test an how to design a testing development pipeline. Using real production code we will show how to test our application using different approaches based on different testing strategies and frameworks or libraries like: Espresso, MockWebServer, Dagger2, JUnit, Mockito, etc.
+
+If you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  language: es
+  complexity: "Intermediate"
+-
+  id: 003
+  title: "Mastering Android Studio"
+  description: "Esta live charla mostrará diversos atajos de teclado, consejos, buenas prácticas, trucos y consejos de como utilizar Android Studio 2.0 de forma eficiente."
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: "Intermediate"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
+  title: "How Polymer works inside?"
+  description: "Coming soon :)"
+  subtype: presentation
+  speakers: [7]
+  language: es
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
+  title: "Working with Artificial Intelligence API's"
+  description: "In this session we are going to see how you can apply Cognitive attributes to you Apps, using Artificial intelligence solutions like a API or simple Frameworks.
+
+We'll discuss about which is the best way to create interaction between the users and the machines and how we can extend it to improve the user experience."
+  subtype: presentation
+  speakers: [8]
+  language: es
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
