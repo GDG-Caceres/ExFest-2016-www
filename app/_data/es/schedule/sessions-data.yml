@@ -45,11 +45,9 @@ If you want to learn how to design a testing development pipeline, how to test y
   complexity: "Beginner"
 -
   id: 005
-  title: "Working with Artificial Intelligence API's"
-  description: "In this session we are going to see how you can apply Cognitive attributes to you Apps, using Artificial intelligence solutions like a API or simple Frameworks.
-
-We'll discuss about which is the best way to create interaction between the users and the machines and how we can extend it to improve the user experience."
+  title: "I am Django and he is Python"
+  description: "¿Sabes el tiempo que se tarda en desarrollar una plataformas web? ¿Quieres hacerlo rapido? Django es un framework para desarrollar web en Python. Aprender lo maravilloso que es este lenguaje."
   subtype: presentation
-  speakers: [8]
+  speakers: [10]
   language: es
-  complexity: "Expert"
+  complexity: "Intermediate"
