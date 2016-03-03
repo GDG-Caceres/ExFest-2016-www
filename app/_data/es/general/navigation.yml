@@ -1,11 +1,14 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "http://2015.exfest.es", text: "Exfest 2015"}
+
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Equipo"}
  - subText: "Social"
    links:
     - {link: "http://gdgcaceres.es", text: "Web GDG Cáceres"}
     - {link: "https://plus.google.com/communities/107200643218205149754", text: "+GDGCáceres"}
     - {link: "https://twitter.com/gdgcaceres", text: "@gdgcaceres"}
+ - {permalink: "http://2015.exfest.es", text: "Exfest 2015"}
 bottomLinks:
  - {link: "http://goo.gl/forms/7gb3BYvB6Z", text: "Conviértete en Sponsor"}
 rightButtons:

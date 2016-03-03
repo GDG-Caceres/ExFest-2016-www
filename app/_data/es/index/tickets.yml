@@ -1,33 +1,35 @@
-title: "Pricetable"
-info: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+title: "Precio de la entrada"
+info: "Las entradas dan acceso a todas las charlas y actividades del evento, incluyendo coffe-break y comida."
 offers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-  info: "Before 30 September 2014 23:59 or 150 tickets"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "15"
+  priceCurrency: "€"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  ribbon: "-25%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "¡Comprar ahora!"
+  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", "Acceso a todas las charlas y participación en actividadesg", "Comida includida y cerveza hasta fin de existencia"]
+  validFrom: "2016-04-01T00:00"
+  validThrough: "2016-05-01T00:00"
+  info: "Antes del 1 de mayo o 100 entradas"
+  disabled: true
+  fallback: "Las entradas se pondrán a la venta el 1 de abril"
+ -
+  name: "Normal"
+  price: "20"
+  priceCurrency: "€"
+  ticketsNumber: "100"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  info: "450 tickets"
+  buyButtonText: "¡Comprar ahora!"
+  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", Acceso a todas las charlas y participación en actividades", "Comida includida y cerveza hasta fin de existencia"]
+  validFrom: "2016-05-01T00:00"
+  validThrough: "2016-06-04T00:00"
+  info: "100 entradas"
   disabled: true
-  fallback: "Ticket sales will begin on 1 October 2014 00:00"
+  fallback: "Las entradas se pondrán a la venta el 1 de mayo"
+---
  -
   name: "Student"
   price: "200"
@@ -42,3 +44,4 @@ offers:
   info: "Before 23 October 2014 23:59 or 50 tickets"
   soldOut: true
   soldOutText: "Sold Out"
+---

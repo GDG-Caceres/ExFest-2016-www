@@ -12,7 +12,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 ### Live demo [http://gdg-x.github.io/zeppelin-grunt](http://gdg-x.github.io/zeppelin-grunt/)
 
-### Exfest web [http://exfest.gdgcaceres.es](http://gdg-x.github.io/zeppelin-grunt/)
+### Exfest web [http://exfest.es](http://exfest.es)
 
 ### Quick-start guide for collaborators
 1.  [Fork](https://github.com/gdg-x/zeppelin-grunt/fork) this repo

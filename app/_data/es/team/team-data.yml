@@ -1,60 +1,70 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Juan "
+  surname: "Barambones"
+  company: "Remotte Labs"
+  title: "CEO Remotte"
+  thumbnailUrl: GDG_Jc.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106379834545393355098/posts"}
+    - {name: "twitter", link: "https://twitter.com/juanbarambones"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Oscar"
+  surname: " Caballero Pozas"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: GDG_Oscar.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+OscarCaballeroPozas96/posts"}
+    - {name: "twitter", link: "https://twitter.com/Oscar_pozas"}
+    - {name: "github", link: "https://github.com/oscarcpozas"}
+
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Lara"
+  surname: "Serradilla López"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: GDG_Lara.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115527442977815188349/posts"}
+    - {name: "twitter", link: "https://twitter.com/Laritaa21"}
+    - {name: "github", link: "https://github.com/Laritaa"}
+-
+  id: 3
+  name: "Borja"
+  surname: "Godoy Gago"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: GDG_Borja.jpeg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/118421668812651988547/posts" }
+    - {name: "twitter", link: "https://twitter.com/gody11"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Diana"
+  surname: "Lopez"
+  company: "GDG Cáceres"
+  title: "CEO Remotte"
+  thumbnailUrl: GDG_Diana.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106159784260415992563/about"}
+
+-
+  id: 5
+  name: "Jose María"
+  surname: "Muñoz Rey"
+  company: "GDG Cáceres"
+  title: "Web Developer"
+  thumbnailUrl: GDG_Jose.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/111341997595718277867/about"}
+    - {name: "twitter", link: "https://twitter.com/koletzilla"}
+    - {name: "github", link: "https://github.com/koletzilla"}
