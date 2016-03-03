@@ -9,7 +9,7 @@ offers:
   ribbon: "-25%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "¡Comprar ahora!"
-  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", "Acceso a todas las charlas y participación en actividadesg", "Comida includida y cerveza hasta fin de existencia"]
+  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida includida y cerveza hasta fin de existencia"]
   validFrom: "2016-04-01T00:00"
   validThrough: "2016-05-01T00:00"
   info: "Antes del 1 de mayo o 100 entradas"
@@ -23,7 +23,7 @@ offers:
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "¡Comprar ahora!"
-  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", Acceso a todas las charlas y participación en actividades", "Comida includida y cerveza hasta fin de existencia"]
+  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida includida y cerveza hasta fin de existencia"]
   validFrom: "2016-05-01T00:00"
   validThrough: "2016-06-04T00:00"
   info: "100 entradas"
