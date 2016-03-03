@@ -14,7 +14,7 @@
         <div class="st-pusher">
             <div class="st-content">
 
-                {{ content }} 
+                {{ content }}
 
                 {% include general/footer.html %}
 
@@ -22,17 +22,17 @@
         </div>
     </div>
 
-    {% if page.modal != null %} 
-    	{% include speakers/speakers-modals.html %} 
-    {% endif %} 
+    {% if page.modal != null %}
+    	{% include speakers/speakers-modals.html %}
+    {% endif %}
 
     {% if page.permalink == '/schedule/' %}
-        {% include schedule/sessions-modals.html %} 
-    {% endif %} 
+        {% include schedule/sessions-modals.html %}
+    {% endif %}
 
     {% include analytics.html %}
     {% include webfont.html %}
-    
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl_root }}><\/script>')
@@ -48,11 +48,11 @@
     <script>
         if ($(window).width() > 767) {
             document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
-        } 
+        }
     </script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
-    {% endif %} 
+    {% endif %}
     <script>
         {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
@@ -123,8 +123,8 @@
                 mobileCenterMapCoordinates = '{{ site.data.[site.lang].hackathon.location.mobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl_root | prepend: site.url }}/img/other/map-marker.png';
             }
-            
-        {% endif %} 
+
+        {% endif %}
     </script>
     <script src="{{ "/js/scripts.js" | prepend: site.baseurl_root }}"></script>
     {% if page.permalink == '/schedule/' %}

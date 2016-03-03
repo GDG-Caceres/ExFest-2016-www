@@ -2,7 +2,7 @@
 title: "GDG DevFest Season 2014"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-enablePreloader: false
+enablePreloader: true
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"

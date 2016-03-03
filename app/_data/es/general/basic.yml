@@ -2,7 +2,7 @@
 title: "GDG ExFest Cáceres 2016"
 email: "gdgcaceres@gmail.com"
 description: "GDG ExFest Cáceres, tu evento dedicado al desarrollo."
-enablePreloader: false
+enablePreloader: true
 
 # Head
 metaKeywords: "evento, gdg, devfest, google, programming, android, chrome, developers, cáceres, Extremadura, España, polymer"
