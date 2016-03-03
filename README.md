@@ -1,6 +1,8 @@
 Exfest version of Project Zeppelin
 =============
 
+[![Join the chat at https://gitter.im/GDG-Caceres/exfest-www](https://badges.gitter.im/GDG-Caceres/exfest-www.svg)](https://gitter.im/GDG-Caceres/exfest-www?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### About
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.
 
