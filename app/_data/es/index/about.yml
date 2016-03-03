@@ -2,4 +2,4 @@ title: "Acerca del Exfest"
 blocks:
  - {title: "La ciudad", image: "city.png", text: "El evento más grande organizado por el GDG Cáceres. ¡Speakers de la mejor calidad y mucha diversión!" }
  - {title: "La conferencia", image: "microphone.png", text: "Dos días llenos de charlas, código y testeo. ¡Ven y aprende a domar tus tecnologías favoritas!" }
- - {title: "Los concuros", image: "competition.png", text: "¡Puede que te espere algún premio que otro! Estate atento, ya te iremos informando ;)" }
+ - {title: "Los concursos", image: "competition.png", text: "¡Puede que te espere algún premio que otro! Estate atento, ya te iremos informando ;)" }
