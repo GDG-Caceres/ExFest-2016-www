@@ -14,7 +14,7 @@
   title: "Programando en diferido"
   description: "Es por todos conocido que uno de los mayores problemas de Android es trabajar fuera del hilo de UI. Durante años hemos descubierto varias formas de hacerlo, desde recomendaciones por parte de Android como AsyncTask o Services hasta librerías basadas en el Reactive Manifesto como rxJava o JDeferred. El estándar de la industria es hacer todo asíncrono pero, ¿estamos seguros de que esta es la mejor solución?"
   subtype: presentation
-  speakers: [3]
+  speakers: [1]
   language: es
   complexity: "Intermediate"
 -
@@ -24,7 +24,7 @@
 
 If you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
   subtype: presentation
-  speakers: [4]
+  speakers: [2]
   language: es
   complexity: "Intermediate"
 -
@@ -32,7 +32,7 @@ If you want to learn how to design a testing development pipeline, how to test y
   title: "Mastering Android Studio"
   description: "Esta live charla mostrará diversos atajos de teclado, consejos, buenas prácticas, trucos y consejos de como utilizar Android Studio 2.0 de forma eficiente."
   subtype: presentation
-  speakers: [6]
+  speakers: [3]
   language: es
   complexity: "Intermediate"
 -
@@ -40,7 +40,7 @@ If you want to learn how to design a testing development pipeline, how to test y
   title: "How Polymer works inside?"
   description: "Coming soon :)"
   subtype: presentation
-  speakers: [7]
+  speakers: [4]
   language: es
   complexity: "Beginner"
 -
@@ -48,6 +48,38 @@ If you want to learn how to design a testing development pipeline, how to test y
   title: "I am Django and he is Python"
   description: "¿Sabes el tiempo que se tarda en desarrollar una plataformas web? ¿Quieres hacerlo rapido? Django es un framework para desarrollar web en Python. Aprender lo maravilloso que es este lenguaje."
   subtype: presentation
-  speakers: [10]
+  speakers: [7]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 006
+  title: "Working with Artificial Intelligence API's"
+  description: "In this session we are going to see how you can apply Cognitive attributes to you Apps, using Artificial intelligence solutions like a API or simple Frameworks.
+
+We'll discuss about which is the best way to create interaction between the users and the machines and how we can extend it to improve the user experience."
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Programación defensiva y sistemas resilientes en el mundo real"
+  description: "¡Por fin has puesto en producción tu proyecto! Ha costado ¿verdad? Pero bueno, ya está siendo usado por usuarios reales, todas las funcionalidades completas e incluso montones de tests que están de color verde impoluto. Pues ya has terminado, ¿no?
+
+Me temo que no amigo. La interacción de los usuarios y la interacción de tu aplicación con otros sistemas te va a enseñar que hay una cantidad importante de comportamientos del sistema que no esperabas. Es el momento en el cuál empiezan las llamadas de emergencia. Esto te enseña que tienes que estar bien preparado para sentirte seguro al sacar tu aplicación al Mundo Real(TM).
+
+La Programación Defensiva y la Resiliencia son dos conceptos que nos van a ayudar a hacer más robustas nuestros sistemas y nos van a preparar para ser resistentes a fallos y ser proactivos en su detección con la monitorización de todo. En esta charla veremos un ejemplo práctico basado en los sistemas de .Tuenti, que problemas hemos tenido y que tipo de soluciones hemos ido aplicando para vivir más tranquilos."
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Use Kotlin in your already started Android projects"
+  description: "Plenty of people do not have a clear idea about the interoperability between Kotlin and Java languages. That makes them feel afraid of using Kotlin in their already started Android projects. On this talk they will be able to get it clarified, so they can get encouraged to use this new language to boost their Android development.
+
+For this talk i will use a sample open source project published on GitHub, and complete functionality already created in Java using Kotlin."
+  subtype: presentation
+  speakers: [8]
   language: es
   complexity: "Intermediate"

@@ -25,7 +25,7 @@ c4pUrl: "http://goo.gl/forms/7gb3BYvB6Z"
 c4pButton: "Conviértete en Sponsor"
 
 # Varibles
-googleAnalyticsTrackingId: ""
+googleAnalyticsTrackingId: "UA-74661126-1"
 webtoolsSiteVerification: ""
 disqusShortName: ""
 

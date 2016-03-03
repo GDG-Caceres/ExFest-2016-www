@@ -1,5 +1,5 @@
 -
-  id: 3
+  id: 1
   name: "Jorge Barroso"
   surname: "Flipper"
   company: "Karumi"
@@ -7,11 +7,13 @@
   bio: "Jorge Barroso es Android expert en Karumi, Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de android core. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
   thumbnailUrl: jorge-barroso.jpeg
   rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/groups/chapter/110301321530950732281"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JorgeJBarroso"}
     - {name: "twitter", link: "https://twitter.com/flipper83"}
 -
-  id: 4
+  id: 2
   name: "Pedro Vicenete"
   surname: ""
   company: "Karumi"
@@ -24,7 +26,7 @@
     - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
     - {name: "github", link: "https://github.com/pedrovgs"}
 -
-  id: 6
+  id: 3
   name: "Saul Molinero"
   surname: ""
   company: ""
@@ -39,7 +41,7 @@
     - {name: "twitter", link: "https://twitter.com/_saulmm"}
     - {name: "github", link: "https://github.com/saulmm"}
 -
-  id: 7
+  id: 4
   name: "Abdón Rodríguez"
   surname: ""
   company: "King of App"
@@ -53,7 +55,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+AbdonRodriguezDavila"}
     - {name: "twitter", link: "https://twitter.com/abdonrd"}
 -
-  id: 8
+  id: 5
   name: "Ismael Faro"
   surname: ""
   company: "IBM"
@@ -66,23 +68,28 @@ In fact I work in IBM Research Zurich trying to discover this new world."
   thumbnailUrl: ismael-faro.webp
   rockstar: true
   ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ismaelfaro"}
     - {name: "twitter", link: "https://twitter.com/ismaelfaro"}
 -
-  id: 9
+  id: 6
   name: "Joaquin Engelmo"
   surname: ""
   company: "Tuenti"
   title: ""
-  bio: ""
+  bio: "Vivo en la salvaje capital pero me he criado entre bellotas. Programo libremente en Tuenti, no paro de organizar cosas en theEvnt y soy un friki gastronómico, tv shows lover y rojiblanco de pura cepa.
+
+No soy especialmente brillante pero lo suficientemente resolutivo. Hablo Java de forma nativa, me defiendo en PHP y chapurreo otros lenguajes. Visto de backend aunque a veces me pongo la gorra de frontend, bash, 'saca curro a paladas', whatever.
+
+Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   thumbnailUrl: joaquin-engelmo.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/kinisoftware"}
 -
-  id: 10
+  id: 7
   name: "Alberto Gutierrez"
   surname: ""
   company: "BEEVA"
@@ -93,16 +100,13 @@ In fact I work in IBM Research Zurich trying to discover this new world."
   social:
     - {name: "twitter", link: "https://twitter.com/Aljesus_GJ"}
 -
-  id: 11
+  id: 8
   name: "Jorge Castillo"
   surname: ""
   company: "Job and Talent"
   title: "Android developer"
   bio: "Jorge Castillo is an experienced spanish Android dev currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://github.com/JorgeCastilloPrz) about custom views, annotation processors, and some more stuff. One of his more kown libraries is AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
-
-He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada).
-
-He also has a personal blog: http://jorgecastillo.xyz"
+He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada)."
   thumbnailUrl: jorge-castillo.png
   rockstar: true
   social:

@@ -3,6 +3,7 @@ links:
 
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "https://gitter.im/GDG-Caceres/exfest-www", text: "Unete a la conversación"}
  - subText: "Social"
    links:
     - {link: "http://gdgcaceres.es", text: "Web GDG Cáceres"}

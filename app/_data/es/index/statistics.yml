@@ -2,5 +2,4 @@ image: "statistic.jpg"
 blocks:
  - {count: "15", specialCharacter: "+", info: "horas", detail: "de charlas con los mejores"}
  - {count: "14", specialCharacter: "", info: "ponentes", detail: "de calidad absoluta"}
- - {count: "3", specialCharacter: "", info: "talleres y concursos", detail: "con los que descansar un poco"}
  - {count: "200", specialCharacter: "+", info: "asistentes", detail: "de todas partes"}
