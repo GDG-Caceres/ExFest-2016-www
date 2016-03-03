@@ -92,3 +92,18 @@ In fact I work in IBM Research Zurich trying to discover this new world."
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/Aljesus_GJ"}
+-
+  id: 11
+  name: "Jorge Castillo"
+  surname: ""
+  company: "Job and Talent"
+  title: "Android developer"
+  bio: "Jorge Castillo is an experienced spanish Android dev currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://github.com/JorgeCastilloPrz) about custom views, annotation processors, and some more stuff. One of his more kown libraries is AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
+
+He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada).
+
+He also has a personal blog: http://jorgecastillo.xyz"
+  thumbnailUrl: jorge-castillo.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/JorgeCastilloPr"}
