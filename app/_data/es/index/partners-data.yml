@@ -6,17 +6,23 @@
     - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "logo-avante.jpg", width: "130px"}
     - {name: "CETA-Ciemat", description: "CETA-Ciemat", link: "http://www.ceta-ciemat.es", imageUrl: "logo-ceta-ciemat.png", width: "200px"}
 
+    - {name: "IBM", description: "IBM", link: "http://www.ibm.com/es-es/", imageUrl: "ibm.jpg", width: "120px"}
+    - {name: "47", description: "47", link: "http://www.47deg.com/", imageUrl: "logo-47.png", width: "90px"}
+    - {name: "Cerveza Ballut", description: "Cerveza Ballut", link: "http://www.cervezaballut.es", imageUrl: "ballut-logo.png", width: "130px"}
+    - {name: "UEX", description: "UEX", link: "http://www.unex.es/", imageUrl: "uex-logo.jpg", width: "110px"}
+    - {name: "Consejo Estudiantes UEX", description: "Consejo Estudiantes UEX", link: "", imageUrl: "consejo-estudiantes-logo.jpg", width: "130px"}
+    - {name: "Sngular", description: "Sngular", link: "http://sngular.team/", imageUrl: "sngular-logo.png", width: "140px"}
+
+
 ---
     # añadidos sin publicar:
     - {name: "", description: "", link: "", imageUrl: "", width: "140px"}
+
+    - {name: "Gloin", description: "Gloin", link: "http://www.gloin.es/", imageUrl: "logo-gloin.jpg", width: "100px"}
     - {name: "ViewNext", description: "ViewNext", link: "http://www.viewnext.com", imageUrl: "viewnext.png", width: "140px"}
-    - {name: "IBM", description: "IBM", link: "http://www.ibm.com/es-es/", imageUrl: "ibm.jpg", width: "120px"}
     - {name: "Factor Humano Formacion", description: "Factor Humano Formacion", link: "http://factorhumanoformacion.com/", imageUrl: "fhf-logo.jpg", width: "180px"}
     - {name: "CompraChapas", description: "CompraChapas", link: "http://www.comprarchapas.com/", imageUrl: "chapas-logo.png", width: "200px"}
     - {name: "Tuvika", description: "Tuvika", link: "http://tuvika.es/", imageUrl: "Tuvika.jpg", width: "160px"}
-    - {name: "Gloin", description: "Gloin", link: "http://www.gloin.es/", imageUrl: "logo-gloin.jpg", width: "100px"}
-    - {name: "Cerveza Ballut", description: "Cerveza Ballut", link: "http://www.cervezaballut.es", imageUrl: "bullet-logo.png", width: "130px"}
-    - {name: "UEX", description: "UEX", link: "http://www.unex.es/", imageUrl: "uex-logo.jpg", width: "110px"}
     - {name: "CEEI Extremadura", description: "CEEI Extremadura", link: "#", imageUrl: "ceei-logo.jpg", width: "200px"}
     - {name: "ASPgems", description: "ASPgems", link: "https://aspgems.com", imageUrl: "asp-gems.jpeg", width: "140px"}
 
@@ -33,5 +39,5 @@
     - {name: "EPCC", description: "EPCC", link: "http://www.unex.es/conoce-la-uex/centros/epcc/centro/presentacion", imageUrl: "epcc-logo.jpg", width: 220px"}
     - {name: "CDE", description: "CDE", link: "http://www.eoi.es/fdi/", imageUrl: "cde-logo.jpg", width: "230px"}
     - {name: "EOI", description: "EOI", link: "http://www.eoi.es/fdi/", imageUrl: "eoi-logo.jpg", width: "500px"}
-    - {name: "47", description: "47", link: "http://www.47deg.com/", imageUrl: "logo-47.png", width: "90px"}
+
 ---
