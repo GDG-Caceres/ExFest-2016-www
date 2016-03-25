@@ -90,17 +90,6 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
     - {name: "twitter", link: "https://twitter.com/kinisoftware"}
 -
   id: 7
-  name: "Alberto Gutierrez"
-  surname: ""
-  company: "BEEVA"
-  title: "Web developer"
-  bio: "Ingerniero Informatico con Master en Desarrollo Software trabajando en BEEVA (BBVA), a trabajado desarrollando y administrando plataformas de BigData, ademas es miembro activo de Google Developers Group."
-  thumbnailUrl: alberto-gutierrez.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/Aljesus_GJ"}
--
-  id: 8
   name: "Jorge Castillo"
   surname: ""
   company: "Job and Talent"

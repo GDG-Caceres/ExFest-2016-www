@@ -3,9 +3,9 @@ links:
 
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "https://gitter.im/GDG-Caceres/exfest-www", text: "Unete a la conversación"}
  - subText: "Social"
    links:
+    - {link: "https://gitter.im/GDG-Caceres/exfest-www", text: "Unete a la conversación"}
     - {link: "http://gdgcaceres.es", text: "Web GDG Cáceres"}
     - {link: "https://plus.google.com/communities/107200643218205149754", text: "+GDGCáceres"}
     - {link: "https://twitter.com/gdgcaceres", text: "@gdgcaceres"}

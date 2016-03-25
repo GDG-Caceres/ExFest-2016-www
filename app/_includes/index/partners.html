@@ -7,7 +7,7 @@
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                <li {% if element.width != null %}style="width: {{ element.width }}; max-width: 1000px;"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl_root }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
@@ -30,7 +30,6 @@
             {% endfor %}
             <a href="{{ site.data.[site.lang].index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4sponsorsButton }}</a>
         </div>
-    </div> 
+    </div>
 </section>
 <!-- End Partners Section -->
-
