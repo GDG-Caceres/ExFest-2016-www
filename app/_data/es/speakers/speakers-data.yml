@@ -89,13 +89,14 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   social:
     - {name: "twitter", link: "https://twitter.com/kinisoftware"}
 -
-  id: 7
+  id: 8
   name: "Jorge Castillo"
   surname: ""
   company: "Job and Talent"
   title: "Android developer"
-  bio: "Jorge Castillo is an experienced spanish Android dev currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://github.com/JorgeCastilloPrz) about custom views, annotation processors, and some more stuff. One of his more kown libraries is AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
-He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada)."
+  bio: "Jorge Castillo is a spanish experienced Android develeoper currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://t.co/3aeXFwcJ4r) about custom views, annotation processors, and some more stuff.
+
+  He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada)."
   thumbnailUrl: jorge-castillo.png
   rockstar: true
   social:

@@ -38,19 +38,12 @@ If you want to learn how to design a testing development pipeline, how to test y
 -
   id: 004
   title: "How Polymer works inside?"
-  description: "Coming soon :)"
+  description: "Actualmente, Polymer está organizado en tres capas de funcionalidades. Durante esta charla se explicará qué ofrece Polymer en cada una de las capas: desde el \"azúcar\" sobre los custom elements hasta el data binding, eventos o notificación de propiedades. Pasando por las funcionalidades relacionadas con el Local DOM y su API."
   subtype: presentation
   speakers: [4]
   language: es
   complexity: "Beginner"
--
-  id: 005
-  title: "I am Django and he is Python"
-  description: "¿Sabes el tiempo que se tarda en desarrollar una plataformas web? ¿Quieres hacerlo rapido? Django es un framework para desarrollar web en Python. Aprender lo maravilloso que es este lenguaje."
-  subtype: presentation
-  speakers: [7]
-  language: es
-  complexity: "Intermediate"
+
 -
   id: 006
   title: "Working with Artificial Intelligence API's"
@@ -75,10 +68,9 @@ La Programación Defensiva y la Resiliencia son dos conceptos que nos van a ayud
   complexity: "Intermediate"
 -
   id: 008
-  title: "Use Kotlin in your already started Android projects"
-  description: "Plenty of people do not have a clear idea about the interoperability between Kotlin and Java languages. That makes them feel afraid of using Kotlin in their already started Android projects. On this talk they will be able to get it clarified, so they can get encouraged to use this new language to boost their Android development.
-
-For this talk i will use a sample open source project published on GitHub, and complete functionality already created in Java using Kotlin."
+  title: "Developing Android apps with Java 8"
+  description: "Google has recently released a preview version of Android N, and brand new Java 8 features appeared around. They gave us a sneak peak about the future of Android development. In this talk we are going to showcase all the supported new language features up to date, detailing which ones are retrocompatible and which ones will just be available starting on API 24 (N).
+   We will get our hands on a Clean Architecture sample project which will use java 8 functionalities on its diffent layers, in order to make people think a little bit more about how those new language features can become handy for us to simplify our code and project architecture."
   subtype: presentation
   speakers: [8]
   language: es
