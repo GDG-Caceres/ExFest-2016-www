@@ -13,14 +13,14 @@
     - {name: "Consejo Estudiantes UEX", description: "Consejo Estudiantes UEX", link: "", imageUrl: "consejo-estudiantes-logo.jpg", width: "130px"}
     - {name: "Sngular", description: "Sngular", link: "http://sngular.team/", imageUrl: "sngular-logo.png", width: "140px"}
     - {name: "JobAndTalent", description: "JobAndTalent", link: "http://www.jobandtalent.com/es", imageUrl: "Jobandtalent_logo.jpg", width: "140px"}
-    - {name: "Karumi", description: "Karumi", link: "http://karumi.com", imageUrl: "karumi.png", width: "140px"}
-    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png", width: "140px"}
+
 
 
 ---
     # añadidos sin publicar:
 
-
+    - {name: "Karumi", description: "Karumi", link: "http://karumi.com", imageUrl: "karumi.png", width: "140px"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png", width: "140px"}
     - {name: "Gloin", description: "Gloin", link: "http://www.gloin.es/", imageUrl: "logo-gloin.jpg", width: "100px"}
     - {name: "ViewNext", description: "ViewNext", link: "http://www.viewnext.com", imageUrl: "viewnext.png", width: "140px"}
     - {name: "Factor Humano Formacion", description: "Factor Humano Formacion", link: "http://factorhumanoformacion.com/", imageUrl: "fhf-logo.jpg", width: "180px"}
