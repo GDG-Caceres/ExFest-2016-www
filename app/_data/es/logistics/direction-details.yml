@@ -1,8 +1,9 @@
 image: "direction-details.jpg"
 title: "Get around Lviv"
 cards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotele", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: "En GDG Cáceres, hemos conseguido un descuento en el hotel Don Manuel De Cáceres para los asistentes al evento. Es un hotel de 4 estrellas situado en pleno casco antiguo de la ciudad, a 300 metros de la Plaza Mayor. Ofrece un spa, recepción 24 horas y habitaciones elegantes con conexión WiFi gratuita. 
+                        ¡Y con un una valoración en Booking de 9,1! "}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 wideCards:
  -

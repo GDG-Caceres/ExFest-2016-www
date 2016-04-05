@@ -1,41 +1,47 @@
-<!-- Begin Direction Details-->
 <section id="direction-details" class="direction-details">
     <div class="content-wrapper">
-        <section class="image-section standart-height" style="background-image: url('{{ site.baseurl_root }}/img/sections-background/{{ site.data.[site.lang].logistics.direction-details.image }}');">
-            <h3>{{ site.data.[site.lang].logistics.direction-details.title }}</h3>
+        <section class="image-section standart-height" style="background-image: url('/img/Exterior hotel.jpg');">
+            <h3>Alojamiento en Cáceres</h3>
         </section>
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-left">
-                {% assign animationDelay = 0 %}
-                {% for card in site.data.[site.lang].logistics.direction-details.cards %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                    <div class="card">
-                        <h4>{{ card.title }}</h4>
-                        <p>{{ card.information }}</p>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% endfor %}
                 
-                {% for wideCard in site.data.[site.lang].logistics.direction-details.wideCards %}
-                <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
-                    <div class="card questions">
-                        <h4>{{ wideCard.title }}</h4>
-                        {% for subCard in wideCard.subCards %}
-                        {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
-                        <div class="col-md-{{ wideCardColWidth }} col-xs-12">
-                            <h5>{{ subCard.title }}</h5>
-                            <ul>
-                                {% for linkElement in subCard.links %}
-                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        {% endfor %}
+                
+                
+                <div class="col-md-12 col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="0">
+                    <div class="card">
+                        <h4>Hotel</h4>
+                        <p>En GDG Cáceres, hemos conseguido un descuento en el hotel Don Manuel De Cáceres para los asistentes al evento. Es un hotel de 4 estrellas situado en pleno casco antiguo de la ciudad, a 300 metros de la Plaza Mayor. Ofrece un spa, recepción 24 horas y habitaciones elegantes con conexión WiFi gratuita. 
+                        ¡Y con un una valoración en Booking de 9,1! </p> <br>
+                                <a href="http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/?gclid=Cj0KEQjwoYi4BRDF_PHHu6rI7NMBEiQAKZ-JuKB8LL8ExN749hIPnMPLtRKY26dXutSvP0zNzlI9g64aAqFy8P8HAQ" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right " target="_blank">
+            Más información
+        </a>
                     </div>
                 </div>
-                {% endfor %}
+                
+                
+                <div class="col-md-12 col-xs-10 same-height animated hiding" data-animation="fadeInDown" data-delay="1000">
+                    <div class="card">
+                        <img src='/img/Habitación-hotel-Don-Mnauel-21.jpg'></img><br><br>
+                         <p>Habitación doble uso individual: 77€</p>
+                           
+                    </div>
+                </div>
+                
+                <div class="col-md-12 col-xs-10 same-height animated hiding" data-animation="fadeInDown" data-delay="1000">
+                    <div class="card">
+                        <img src='/img/Habitación-hotel-Don-Mnauel-11.jpg'></img><br><br>
+                         <p>Habitación doble: 88€</p>
+                           
+                    </div>
+                </div>
+                
+                
+                <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
+                   <div class="card">
+                    <h4>Como llegar a Cáceres</h4><br><br>
+                        <iframe width="100%" height="378" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://amovens.com/widgets/event?id=2688&theme=dark"></iframe><br><small style="display:block;text-align:center;"><a href="https://amovens.com/" target="_blank" style="color:#666!important;font-size:11px;text-decoration:none;font-family:arial;" title="Compartir coche y alquiler de coches entre particulares">A través de Amovens</a> – <a href="https://amovens.com/app" target="_blank" style="color:#666!important;font-size:11px;text-decoration:none;font-family:arial;" title="App de Amovens para iPhone y Android">¡Descárgate la app gratuita!</a></small>               </div>
+                   </div>
             </div>
         </div>
     </div>
