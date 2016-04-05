@@ -1,6 +1,7 @@
 -
   group: ""
   elements:
+    - {name: "The Evnt", link: "http://theevnt.com/", imageUrl: "event-logo.jpg", width: "130px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "130px"}
     - {name: "Instituto Municipal de Juventud de Cáceres", description: "Instituto Municipal de Juventud de Cáceres", link: "http://juventud.caceres.es", imageUrl: "imj-logo.jpg", width: "200px"}
     - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "logo-avante.jpg", width: "130px"}

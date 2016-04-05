@@ -1,7 +1,7 @@
 -
   id: 1
-  name: "Jorge Barroso"
-  surname: "Flipper"
+  name: "Jorge"
+  surname: "Barroso"
   company: "Karumi"
   title: "Android expert"
   bio: "Jorge Barroso es Android expert en Karumi, Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de android core. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
@@ -14,8 +14,8 @@
     - {name: "twitter", link: "https://twitter.com/flipper83"}
 -
   id: 2
-  name: "Pedro Vicenete"
-  surname: ""
+  name: "Pedro"
+  surname: "Vicenete"
   company: "Karumi"
   title: "Android Developer"
   bio: 'Pedro is a Software Engineer really focused on new technologies, open source, clean code and testing. Right now he is working as a Senior Android Developer at Karumi, a little Software Development Studio based on the software quality from the code and product points of view. He has been also working at some companies like Tuenti or Droiders as Senior Android Developer. His goal is to improve my knowledge about other technologies and languages everyday with a really interesting goal, write the best possible code and the most awesome application.'
@@ -27,8 +27,8 @@
     - {name: "github", link: "https://github.com/pedrovgs"}
 -
   id: 3
-  name: "Saul Molinero"
-  surname: ""
+  name: "Saul"
+  surname: "Molinero"
   company: ""
   title: "Android developer"
   bio: "Saul Molinero es una persona entusiasta entusiasmado por el diseño y desarrollo móvil, actualmente trabaja para una compañía basada en New York basada en el desarrollo android nativo. Saúl disfruta creando y compartiendo contenido con las comunidades de desarrolladores. Saul también participa activamente en varios GDGs (Google Developers Groups) siendo fundador del GDG de Santiago de Compostela y organizador del GDG Vigo."
@@ -42,8 +42,8 @@
     - {name: "github", link: "https://github.com/saulmm"}
 -
   id: 4
-  name: "Abdón Rodríguez"
-  surname: ""
+  name: "Abdón"
+  surname: "Rodríguez"
   company: "King of App"
   title: ""
   bio: "I am a galician developer. Passionate about technology. Senior Frontend Developer at King of App. Google Developer Group organizer."
@@ -56,8 +56,8 @@
     - {name: "twitter", link: "https://twitter.com/abdonrd"}
 -
   id: 5
-  name: "Ismael Faro"
-  surname: ""
+  name: "Ismael"
+  surname: "Faro"
   company: "IBM"
   title: ""
   bio: "I'm a Developer Advocate that love play with the last technologies and try to change the point of view about the how and when use the Artificial Intelligence and how it can help to you to create smarter developments.
@@ -75,8 +75,8 @@ In fact I work in IBM Research Zurich trying to discover this new world."
     - {name: "twitter", link: "https://twitter.com/ismaelfaro"}
 -
   id: 6
-  name: "Joaquin Engelmo"
-  surname: ""
+  name: "Joaquin"
+  surname: "Engelmo"
   company: "Tuenti"
   title: ""
   bio: "Vivo en la salvaje capital pero me he criado entre bellotas. Programo libremente en Tuenti, no paro de organizar cosas en theEvnt y soy un friki gastronómico, tv shows lover y rojiblanco de pura cepa.
@@ -89,9 +89,24 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   social:
     - {name: "twitter", link: "https://twitter.com/kinisoftware"}
 -
+  id: 7
+  name: "Fran"
+  surname: "Baena"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Fran-Baena.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group ", url: "https://plus.google.com/+FranBaena"}
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FranBaena"}
+    - {name: "twitter", link: "https://twitter.com/baenans"}
+
+-
   id: 8
-  name: "Jorge Castillo"
-  surname: ""
+  name: "Jorge"
+  surname: "Castillo"
   company: "Job and Talent"
   title: "Android developer"
   bio: "Jorge Castillo is a spanish experienced Android develeoper currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://t.co/3aeXFwcJ4r) about custom views, annotation processors, and some more stuff.
@@ -101,3 +116,41 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/JorgeCastilloPr"}
+
+-
+  id: 9
+  name: "Andrés Leonardo"
+  surname: "Martínez"
+  company: "Developer Program Manager"
+  title: "Developer Program"
+  bio: "Con amplia experiencia en I + D  en el sector de las Telecomunicaciones y de Ingeniería de Software, he estado trabajando siempre en desarrollo, la transferencia y la promoción de tecnologías innovadoras. También he sido fundador en un par de nuevas empresas no totalmente exitosos. A partir de abril de 2013, me alegro de ser parte del equipo de Relaciones con Desarrolladores de Google. Desde un punto de vista educativo, he completado una maestría en Ciencias de la Computación. Sin embargo he estado manteniendo un ojo en la educación continua, con cursos adicionales de capacitación en gestión de proyectos, ITIL o emprendimiento. Particularmente me extiendo mis habilidades en los negocios y la gestión, para asistir a una licenciatura a tiempo parcial en Administración de Empresas. Desde un punto de vista profesional, he estado trabajando en la mayoría de las etapas de la I + D , incluyendo el desarrollo de software, gestión de proyectos (proyectos de tamaño mediano), definición de producto, marketing y desarrollo de negocios en varios departamentos de I + D de las telecomunicaciones y las industrias de ingeniería de software . Siempre me pasé algún tiempo como profesor asociado en la Escuela de Informática, enseñando sistema distribuido operativo (Plan9, Infierno, Linux), sistemas embebidos y robótica (BrickOS, ROS) y la programación (ADA, C, Java, Limbo). Durante todo este tiempo, me he centrado en las estrategias de innovación abierta y la planificación e implementación de proyectos de innovación, profundamente relacionados con los paradigmas y tecnologías de código abierto, donde las comunidades de desarrolladores y tercera partes juegan un papel importante. En particular, los últimos cinco años he estado diseñando estrategias, apuntando a los estudiantes universitarios y las PYME, que se dedican a los desarrolladores sobre las nuevas tecnologías. Geográficamente, como parte de mis actividades he estado creando asociación con empresas, asociaciones industriales grandes, desarrolladores comunidades y universidades de España, Argentina, Colombia, Brasil, México y Chile, sino también de Canadá, EE.UU., Europa e Israel. Por último, soy un lector voraz, a tiempo parcial músico, aficionado a la ciencia y la ACM, IEEE Computer Society y miembro. Por último, pero no menos importante, en términos de logros biológicos, estoy casado (así que mis genes egoístas han ganado) y mi esposa y yo hemos lanzado tres nuevas versiones (un niño y dos niñas) de un nuevo ADN mezclado y reformado."
+  thumbnailUrl: Almo.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group ", url: "https://plus.google.com/104070495650441591893/about"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/104070495650441591893/about"}
+    - {name: "twitter", link: "https://twitter.com/davilagrau?lang=es"}
+
+-
+  id: 10
+  name: "Speaker"
+  surname: "Sorpresa"
+  company: ""
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: who.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/gdgcaceres?lang=es"}
+
+-
+  id: 11
+  name: "Speaker"
+  surname: "Sorpresa"
+  company: ""
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: who.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/gdgcaceres?lang=es"}

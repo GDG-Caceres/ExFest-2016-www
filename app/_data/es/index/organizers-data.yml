@@ -2,4 +2,3 @@
   group: ""
   elements:
     - {name: "GDG Cáceres", link: "https://plus.google.com/110029291185137285136", imageUrl: "GDG.png", width: "390px"}
-    - {name: "The Evnt", link: "http://theevnt.com/", imageUrl: "event-logo.jpg", width: "300px"}

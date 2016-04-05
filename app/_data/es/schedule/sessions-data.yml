@@ -75,3 +75,35 @@ La Programación Defensiva y la Resiliencia son dos conceptos que nos van a ayud
   speakers: [8]
   language: es
   complexity: "Intermediate"
+
+-
+  id: 009
+  title: "Progressive Web Apps"
+  description: "A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, leveraging the web's low friction."
+  speakers: [7]
+  language: es
+  complexity: "Intermediate"
+
+-
+  id: 010
+  title: "Por confirmar"
+  description: ""
+  speakers: [9]
+  language: es
+  complexity: "Intermediate"
+
+-
+  id: 011
+  title: "Por confirmar"
+  description: ""
+  speakers: [10]
+  language: es
+  complexity: "Intermediate"
+
+-
+  id: 012
+  title: "Por confirmar"
+  description: ""
+  speakers: [11]
+  language: es
+  complexity: "Intermediate"
