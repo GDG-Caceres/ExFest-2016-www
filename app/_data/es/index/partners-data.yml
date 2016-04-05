@@ -14,6 +14,7 @@
     - {name: "Consejo Estudiantes UEX", description: "Consejo Estudiantes UEX", link: "", imageUrl: "consejo-estudiantes-logo.jpg", width: "130px"}
     - {name: "Sngular", description: "Sngular", link: "http://sngular.team/", imageUrl: "sngular-logo.png", width: "140px"}
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png", width: "140px"}
+    - {name: "Hotel Don Manuel", description: "Hotel Don Manuel", link: "http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/", imageUrl: "hotel-Don-Manuel.jpg", width: "140px"}
 
 
 ---
