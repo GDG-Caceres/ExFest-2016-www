@@ -92,8 +92,8 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   id: 7
   name: "Fran"
   surname: "Baena"
-  company: ""
-  title: ""
+  company: "Google"
+  title: "Community Specialist EMEA at Google"
   bio: ""
   thumbnailUrl: Fran-Baena.jpg
   ribbon:
@@ -121,7 +121,7 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   id: 9
   name: "Andrés Leonardo"
   surname: "Martínez"
-  company: "Developer Program Manager"
+  company: "Google"
   title: "Developer Program"
   bio: "Con amplia experiencia en I + D  en el sector de las Telecomunicaciones y de Ingeniería de Software, he estado trabajando siempre en desarrollo, la transferencia y la promoción de tecnologías innovadoras. También he sido fundador en un par de nuevas empresas no totalmente exitosos. A partir de abril de 2013, me alegro de ser parte del equipo de Relaciones con Desarrolladores de Google. Desde un punto de vista educativo, he completado una maestría en Ciencias de la Computación. Sin embargo he estado manteniendo un ojo en la educación continua, con cursos adicionales de capacitación en gestión de proyectos, ITIL o emprendimiento. Particularmente me extiendo mis habilidades en los negocios y la gestión, para asistir a una licenciatura a tiempo parcial en Administración de Empresas. Desde un punto de vista profesional, he estado trabajando en la mayoría de las etapas de la I + D , incluyendo el desarrollo de software, gestión de proyectos (proyectos de tamaño mediano), definición de producto, marketing y desarrollo de negocios en varios departamentos de I + D de las telecomunicaciones y las industrias de ingeniería de software . Siempre me pasé algún tiempo como profesor asociado en la Escuela de Informática, enseñando sistema distribuido operativo (Plan9, Infierno, Linux), sistemas embebidos y robótica (BrickOS, ROS) y la programación (ADA, C, Java, Limbo). Durante todo este tiempo, me he centrado en las estrategias de innovación abierta y la planificación e implementación de proyectos de innovación, profundamente relacionados con los paradigmas y tecnologías de código abierto, donde las comunidades de desarrolladores y tercera partes juegan un papel importante. En particular, los últimos cinco años he estado diseñando estrategias, apuntando a los estudiantes universitarios y las PYME, que se dedican a los desarrolladores sobre las nuevas tecnologías. Geográficamente, como parte de mis actividades he estado creando asociación con empresas, asociaciones industriales grandes, desarrolladores comunidades y universidades de España, Argentina, Colombia, Brasil, México y Chile, sino también de Canadá, EE.UU., Europa e Israel. Por último, soy un lector voraz, a tiempo parcial músico, aficionado a la ciencia y la ACM, IEEE Computer Society y miembro. Por último, pero no menos importante, en términos de logros biológicos, estoy casado (así que mis genes egoístas han ganado) y mi esposa y yo hemos lanzado tres nuevas versiones (un niño y dos niñas) de un nuevo ADN mezclado y reformado."
   thumbnailUrl: Almo.jpg
@@ -130,9 +130,22 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/104070495650441591893/about"}
     - {name: "twitter", link: "https://twitter.com/davilagrau?lang=es"}
-
 -
   id: 10
+  name: "David"
+  surname: "Gonzalez"
+  company: "Novoda"
+  title: "Technical Product Owner at Novoda"
+  bio: "David is a passionate Android craftsman at Novoda, working with the platform since 2010 he's actively involved in the Berlin and London Android community. He enjoys public speaking and is always sharing his experiences via conferences, blog posts or open source libraries."
+  thumbnailUrl: David2.png
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert ", url: "https://plus.google.com/+davidgonzalezmalmstein/posts"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein/posts"}
+    - {name: "twitter", link: "https://twitter.com/dggonzalez?lang=es"}
+
+-
+  id: 11
   name: "Speaker"
   surname: "Sorpresa"
   company: ""
@@ -144,7 +157,7 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
     - {name: "twitter", link: "https://twitter.com/gdgcaceres?lang=es"}
 
 -
-  id: 11
+  id: 12
   name: "Speaker"
   surname: "Sorpresa"
   company: ""
