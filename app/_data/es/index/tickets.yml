@@ -7,35 +7,35 @@ offers:
   priceCurrency: "€"
   ticketsNumber: "10"
   ribbon: "-50%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.koliseo.com/gdgcaceres/ex-fest-caceres-2016?selected=5676143181037568&numTickets=1&ticketType=oyfRUKf"
   buyButtonText: "¡Comprar ahora!"
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche"]
   validFrom: ""
   validThrough: ""
   info: "10 entradas"
   disabled: true
-  fallback: "Próximamente"
+  fallback: "Sold Out"
  -
   name: "Early Bird"
   price: "15"
   priceCurrency: "€"
   ticketsNumber: "40"
   ribbon: "-25%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.koliseo.com/gdgcaceres/ex-fest-caceres-2016?selected=5676143181037568&numTickets=1&ticketType=EJoYUKf"
   buyButtonText: "¡Comprar ahora!"
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche"]
   validFrom: ""
   validThrough: ""
   info: "40 entradas"
-  disabled: true
-  fallback: "Próximamente"
+  disabled: false
+  fallback: "Comprar ahora"
  -
   name: "Normal"
   price: "20"
   priceCurrency: "€"
-  ticketsNumber: "190"
+  ticketsNumber: "180"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.koliseo.com/gdgcaceres/ex-fest-caceres-2016?selected=5676143181037568&numTickets=1&ticketType=FJoYUKf"
   buyButtonText: "¡Comprar ahora!"
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche"]
   validFrom: ""
@@ -50,26 +50,26 @@ offers:
   price: "60"
   priceCurrency: "€"
   ticketsNumber: "20"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.koliseo.com/gdgcaceres/ex-fest-caceres-2016?selected=5676143181037568&numTickets=1&ticketType=GJoYUKf"
   buyButtonText: "¡Comprar ahora!"
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche", "Además por ser VIP te daremos un regalo exclusivo del evento"]
   validFrom: ""
   validThrough: ""
   info: "20 entradas"
-  disabled: true
-  fallback: "Próximamente"
+  disabled: false
+  fallback: "Comprar"
  -
   name: "Mecenas"
   price: "100"
   priceCurrency: "€"
   ticketsNumber: "10"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.koliseo.com/gdgcaceres/ex-fest-caceres-2016?selected=5676143181037568&numTickets=1&ticketType=HJoYUKf"
   buyButtonText: "¡Comprar ahora!"
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche", "Además por ser Mecenas tendrás acceso a la cena de Speakers y un regalo exclusivo del evento"]
   validFrom: ""
   validThrough: ""
   info: "10 entradas"
-  disabled: true
-  fallback: "Próximamente"
+  disabled: false
+  fallback: "Comprar"
 ---
