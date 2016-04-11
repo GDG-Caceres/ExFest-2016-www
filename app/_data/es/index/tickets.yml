@@ -29,8 +29,8 @@ offers:
   validFrom: ""
   validThrough: ""
   info: "40 entradas"
-  disabled: true
-  soldOut: true
+  disabled: false
+  soldOut: false
   soldOutText: "Sold Out"
   fallback: "Sold Out"
  -
