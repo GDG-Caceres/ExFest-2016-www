@@ -6,6 +6,7 @@ offers:
   price: "60"
   priceCurrency: "€"
   ticketsNumber: "20"
+  featured: true
   buyButtonLink: "https://www.koliseo.com/gdgcaceres/ex-fest-caceres-2016?selected=5676143181037568&numTickets=1&ticketType=GJoYUKf"
   buyButtonText: "¡Comprar ahora!"
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche", "Además por ser VIP te daremos un regalo exclusivo del evento"]

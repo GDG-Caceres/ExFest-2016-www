@@ -14,6 +14,8 @@ offers:
   validThrough: ""
   info: "10 entradas"
   disabled: true
+  soldOut: true
+  soldOutText: "Sold Out"
   fallback: "Sold Out"
  -
   name: "Early Bird"
@@ -27,8 +29,10 @@ offers:
   validFrom: ""
   validThrough: ""
   info: "40 entradas"
-  disabled: false
-  fallback: "Comprar ahora"
+  disabled: true
+  soldOut: true
+  soldOutText: "Sold Out"
+  fallback: "Sold Out"
  -
   name: "Normal"
   price: "20"
@@ -40,8 +44,8 @@ offers:
   ticketContentList: ["Accede al mejor eventos de desarrolladores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida incluida y cerveza hasta fin de existencia", "Camiseta y pulsera con descuento para irnos de fiesta juntos por la noche"]
   validFrom: ""
   validThrough: ""
-  info: "40 entradas"
-  disabled: true
+  info: "180 entradas"
+  disabled: false
   fallback: "Próximamente"
 
 ---
