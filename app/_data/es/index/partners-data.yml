@@ -4,9 +4,8 @@
     - {name: "The Evnt", link: "http://theevnt.com/", imageUrl: "event-logo.jpg", width: "130px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "130px"}
     - {name: "Instituto Municipal de Juventud de Cáceres", description: "Instituto Municipal de Juventud de Cáceres", link: "http://juventud.caceres.es", imageUrl: "imj-logo.jpg", width: "200px"}
-    - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "logo-avante.jpg", width: "130px"}
     - {name: "CETA-Ciemat", description: "CETA-Ciemat", link: "http://www.ceta-ciemat.es", imageUrl: "logo-ceta-ciemat.png", width: "200px"}
-
+    - {name: "Karumi", description: "Karumi", link: "http://karumi.com", imageUrl: "karumi.png", width: "140px"}
     - {name: "IBM", description: "IBM", link: "http://www.ibm.com/es-es/", imageUrl: "ibm.jpg", width: "120px"}
     - {name: "47", description: "47", link: "http://www.47deg.com/", imageUrl: "logo-47.png", width: "90px"}
     - {name: "Cerveza Ballut", description: "Cerveza Ballut", link: "http://www.cervezaballut.es", imageUrl: "ballut-logo.png", width: "130px"}
@@ -16,11 +15,17 @@
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png", width: "140px"}
     - {name: "Hotel Don Manuel", description: "Hotel Don Manuel", link: "http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/", imageUrl: "hotel-Don-Manuel.jpg", width: "140px"}
 
+- group: "Colaboradores"
+  elements:
+    - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "logo-avante.jpg", width: "130px"}
+    - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "av1.jpg", width: "130px"}
+    - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "av2.jpg", width: "170px"}
+    - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "av3.jpg", width: "170px"}
 
 ---
     # añadidos sin publicar:
 
-    - {name: "Karumi", description: "Karumi", link: "http://karumi.com", imageUrl: "karumi.png", width: "140px"}
+
     - {name: "JobAndTalent", description: "JobAndTalent", link: "http://www.jobandtalent.com/es", imageUrl: "Jobandtalent_logo.jpg", width: "140px"}
     - {name: "Gloin", description: "Gloin", link: "http://www.gloin.es/", imageUrl: "logo-gloin.jpg", width: "100px"}
     - {name: "ViewNext", description: "ViewNext", link: "http://www.viewnext.com", imageUrl: "viewnext.png", width: "140px"}
