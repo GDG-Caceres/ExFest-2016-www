@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://exfest.es</loc>
-    <lastmod>2014-07-21T11:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://exfest.es</loc>
-    <lastmod>2014-07-21T10:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://exfest.es/blog/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/cod/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/hackathon/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/logistics/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/schedule/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/speakers/</loc>
-  </url>
-  <url>
-    <loc>http://exfest.es/team/</loc>
-  </url>
+<url>
+<loc>http://exfest.es</loc>
+<lastmod>2014-07-21T11:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://exfest.es</loc>
+<lastmod>2014-07-21T10:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://exfest.es/blog/</loc>
+</url>
+<url>
+<loc>http://exfest.es/cod/</loc>
+</url>
+<url>
+<loc>http://exfest.es/hackathon/</loc>
+</url>
+<url>
+<loc>http://exfest.es/</loc>
+</url>
+<url>
+<loc>http://exfest.es/logistics/</loc>
+</url>
+<url>
+<loc>http://exfest.es/schedule/</loc>
+</url>
+<url>
+<loc>http://exfest.es/speakers/</loc>
+</url>
+<url>
+<loc>http://exfest.es/team/</loc>
+</url>
 </urlset>
