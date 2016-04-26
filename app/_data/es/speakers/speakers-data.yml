@@ -145,14 +145,13 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
 -
   id: 11
   name: "Speaker"
-  surname: "Sorpresa"
-  company: ""
-  title: "Developer"
+  surname: "Cesar Puerta"
+  company: "Twitter"
+  title: "Staff Software Engineer"
   bio: ""
-  thumbnailUrl: who.jpg
-  rockstar: false
+  thumbnailUrl: CesarPuerta.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/gdgcaceres?lang=es"}
+    - {name: "twitter", link: "https://twitter.com/CesarDielo"}
 
 -
   id: 12
