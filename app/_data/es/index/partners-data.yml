@@ -1,19 +1,27 @@
 -
   group: ""
   elements:
-    - {name: "The Evnt", link: "http://theevnt.com/", imageUrl: "event-logo.jpg", width: "130px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "130px"}
-    - {name: "Instituto Municipal de Juventud de Cáceres", description: "Instituto Municipal de Juventud de Cáceres", link: "http://juventud.caceres.es", imageUrl: "imj-logo.jpg", width: "200px"}
-    - {name: "CETA-Ciemat", description: "CETA-Ciemat", link: "http://www.ceta-ciemat.es", imageUrl: "logo-ceta-ciemat.png", width: "200px"}
-    - {name: "Karumi", description: "Karumi", link: "http://karumi.com", imageUrl: "karumi.png", width: "140px"}
+    - {name: "The Evnt", link: "http://theevnt.com/", imageUrl: "event-logo.jpg", width: "130px"}
     - {name: "IBM", description: "IBM", link: "http://www.ibm.com/es-es/", imageUrl: "ibm.jpg", width: "120px"}
-    - {name: "47", description: "47", link: "http://www.47deg.com/", imageUrl: "logo-47.png", width: "90px"}
-    - {name: "Cerveza Ballut", description: "Cerveza Ballut", link: "http://www.cervezaballut.es", imageUrl: "ballut-logo.png", width: "130px"}
-    - {name: "UEX", description: "UEX", link: "http://www.unex.es/", imageUrl: "uex-logo.jpg", width: "110px"}
-    - {name: "Consejo Estudiantes UEX", description: "Consejo Estudiantes UEX", link: "", imageUrl: "consejo-estudiantes-logo.jpg", width: "130px"}
     - {name: "Sngular", description: "Sngular", link: "http://sngular.team/", imageUrl: "sngular-logo.png", width: "140px"}
+    - {name: "Karumi", description: "Karumi", link: "http://karumi.com", imageUrl: "karumi.png", width: "150px"}
+    - {name: "JobAndTalent", description: "JobAndTalent", link: "http://www.jobandtalent.com/es", imageUrl: "Jobandtalent_logo.jpg", width: "150px"}
+    - {name: "Consejo Estudiantes UEX", description: "Consejo Estudiantes UEX", link: "", imageUrl: "consejo-estudiantes-logo.jpg", width: "130px"}
+    - {name: "Mobbeel", description: "Mobbeel", link: "http://www.mobbeel.com/inicio/", imageUrl: "mobbeel.png", width: "140px"}
+    - {name: "Gloin", description: "Gloin", link: "http://www.gloin.es/", imageUrl: "logo-gloin.jpg", width: "100px"}
+    - {name: "47", description: "47", link: "http://www.47deg.com/", imageUrl: "logo-47.png", width: "90px"}
+    - {name: "Worldline", description: "Worldline", link: "http://es.worldline.com/es-es/home.html", imageUrl: "worldline-logo.jpg", width: "140px"}
+
+    - {name: "Cerveza Ballut", description: "Cerveza Ballut", link: "http://www.cervezaballut.es", imageUrl: "ballut-logo.png", width: "130px"}
+
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png", width: "140px"}
-    - {name: "Hotel Don Manuel", description: "Hotel Don Manuel", link: "http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/", imageUrl: "hotel-Don-Manuel.jpg", width: "140px"}
+    - {name: "Hotel Don Manuel", description: "Hotel Don Manuel", link: "http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/", imageUrl: "hotel-Don-Manuel.jpg", width: "160px"}
+    - {name: "UEX", description: "UEX", link: "http://www.unex.es/", imageUrl: "uex-logo.jpg", width: "110px"}
+    - {name: "Planticas", description: "Planticas", link: "http://planticas.com", imageUrl: "planticas.png", width: "160px"}
+
+
+
 
 - group: "Colaboradores"
   elements:
@@ -25,16 +33,16 @@
 ---
     # añadidos sin publicar:
 
+    - {name: "Instituto Municipal de Juventud de Cáceres", description: "Instituto Municipal de Juventud de Cáceres", link: "http://juventud.caceres.es", imageUrl: "imj-logo.jpg", width: "200px"}
 
-    - {name: "JobAndTalent", description: "JobAndTalent", link: "http://www.jobandtalent.com/es", imageUrl: "Jobandtalent_logo.jpg", width: "140px"}
-    - {name: "Gloin", description: "Gloin", link: "http://www.gloin.es/", imageUrl: "logo-gloin.jpg", width: "100px"}
+
     - {name: "ViewNext", description: "ViewNext", link: "http://www.viewnext.com", imageUrl: "viewnext.png", width: "140px"}
     - {name: "Factor Humano Formacion", description: "Factor Humano Formacion", link: "http://factorhumanoformacion.com/", imageUrl: "fhf-logo.jpg", width: "180px"}
     - {name: "CompraChapas", description: "CompraChapas", link: "http://www.comprarchapas.com/", imageUrl: "chapas-logo.png", width: "200px"}
     - {name: "Tuvika", description: "Tuvika", link: "http://tuvika.es/", imageUrl: "Tuvika.jpg", width: "160px"}
     - {name: "CEEI Extremadura", description: "CEEI Extremadura", link: "#", imageUrl: "ceei-logo.jpg", width: "200px"}
     - {name: "ASPgems", description: "ASPgems", link: "https://aspgems.com", imageUrl: "asp-gems.jpeg", width: "140px"}
-
+    - {name: "CETA-Ciemat", description: "CETA-Ciemat", link: "http://www.ceta-ciemat.es", imageUrl: "logo-ceta-ciemat.png", width: "200px"}
     # No están añadidos aun:
     - {name: "The Evnt", description: "The Evnt", link: "http://theevnt.com/", imageUrl: "event-logo.jpg", width: "140px"}
     - {name: "Consejo Estudiantes UEX", description: "Consejo Estudiantes UEX", link: "", imageUrl: "consejo-estudiantes-logo.jpg", width: "130px"}
