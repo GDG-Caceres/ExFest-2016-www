@@ -142,25 +142,40 @@ Se me puede ver felizmente usando la Thermomix en mis ratos libres."
     - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein/posts"}
     - {name: "twitter", link: "https://twitter.com/dggonzalez?lang=es"}
 
+
 -
   id: 11
+  name: "Gloria"
+  surname: "Bueno"
+  company: "MashMe"
+  title: "Web Developer"
+  bio: "Desarrolladora web en @MashMeTV, centrada en crear mejores experiencias móviles y de escritorio. Autodidacta compulsiva, siempre buscando los límites para sacar el máximo provecho de la tecnología, actualmente Google Developer Expert en Polymer en busca de mejores flujos de trabajo Front-end."
+  thumbnailUrl: gloria.jpg
+  rockstar: false
+  ribbon: 
+   - {abbr: "GDE", title: "Google Developer Expert ", url: "https://plus.google.com/+gloriabueno/posts"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/globitos"}
+
+-
+  id: 12
   name: "Cesar"
   surname: "Puerta"
   company: "Twitter"
   title: "Staff Software Engineer"
-  bio: ""
+  bio: "César Puerta is the technical lead for Twitter for Android, and oversees the application’s architecture. With a team of 45 developers and a codebase dating from over five years ago, when the cutting-edge version of Android was 2.2 (Froyo), Twitter for Android presents a unique set of challenges when it comes to building a clean, easy to understand codebase. César’s aspirations as technical lead include helping teams collaborate on such a large-scale project, and the migration of shared infrastructure towards design patterns which incorporate modern techniques such as dependency injection through Dagger and decoupled, modularized, and testable components. Prior to working on Android, César worked on localization engineering at Twitter and Electronic Arts in Madrid."
   thumbnailUrl: CesarPuerta.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/CesarDielo"}
 
 -
-  id: 12
-  name: "Speaker"
-  surname: "Sorpresa"
-  company: ""
-  title: "Developer"
-  bio: ""
-  thumbnailUrl: who.jpg
+  id: 13
+  name: "Salvador"
+  surname: "de la Puente Gonzalez"
+  company: "Mozila"
+  title: "Software Engineer"
+  bio: "Salvador de la Puente González (Salva) is Software Engineer at Mozilla. Salva is currently working as Web Developer in the Web Application Developer Initiative (WADI), initiative whose goals are to propel the development of Web Applications through the use and teaching of the most modern Web technologies. He has also worked for Telefónica I+D in Firefox OS and collaborates as JavaScript and Python mentor in IronHack, Tetuan Valley and H4ckademy. Salva maintains several informal and personal projects in his GitHub account and tries to reconcile his life as programmer with his other passions for music, cinema, literature, video-games and crafted beer."
+  thumbnailUrl: salva.png
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/gdgcaceres?lang=es"}
+    - {name: "twitter", link: "https://twitter.com/salvadelapuente"}
