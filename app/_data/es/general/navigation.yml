@@ -2,6 +2,7 @@ links:
  - {permalink: "/", text: "Home"}
 
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Prepara tu viaje"}
  - subText: "Social"
