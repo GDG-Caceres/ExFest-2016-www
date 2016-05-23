@@ -30,12 +30,15 @@
     - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "av2.jpg", width: "170px"}
     - {name: "Avante", description: "Avante", link: "http://www.extremaduraavante.es/", imageUrl: "av3.jpg", width: "170px"}
 
+- group: "Media Partners"
+  elements:
+    - {name: "Autentia", description: "Autentia", link: "https://www.autentia.com", imageUrl: "autentia.png", width: "170px"}
+    #- {name: "Genbeta", description: "Genbeta", link: "http://www.genbeta.com/", imageUrl: "genbeta.png", width: "190px"}
+
 ---
     # añadidos sin publicar:
 
     - {name: "Instituto Municipal de Juventud de Cáceres", description: "Instituto Municipal de Juventud de Cáceres", link: "http://juventud.caceres.es", imageUrl: "imj-logo.jpg", width: "200px"}
-
-
     - {name: "ViewNext", description: "ViewNext", link: "http://www.viewnext.com", imageUrl: "viewnext.png", width: "140px"}
     - {name: "Factor Humano Formacion", description: "Factor Humano Formacion", link: "http://factorhumanoformacion.com/", imageUrl: "fhf-logo.jpg", width: "180px"}
     - {name: "CompraChapas", description: "CompraChapas", link: "http://www.comprarchapas.com/", imageUrl: "chapas-logo.png", width: "200px"}
