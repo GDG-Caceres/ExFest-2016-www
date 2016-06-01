@@ -19,6 +19,8 @@
     - {name: "Hotel Don Manuel", description: "Hotel Don Manuel", link: "http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/", imageUrl: "hotel-Don-Manuel.jpg", width: "160px"}
     - {name: "UEX", description: "UEX", link: "http://www.unex.es/", imageUrl: "uex-logo.jpg", width: "110px"}
     - {name: "Planticas", description: "Planticas", link: "http://planticas.com", imageUrl: "planticas.png", width: "160px"}
+    - {name: "Azulae", description: "Azulae", link: "http://azulae.es", imageUrl: "azulae.png", width: "160px"}
+    - {name: "Play My Hit", description: "Play My Hit", link: "https://www.playmyhit.com/", imageUrl: "playmyhit_logo.png", width: "170px"}
 
 
 
@@ -33,7 +35,7 @@
 - group: "Media Partners"
   elements:
     - {name: "Autentia", description: "Autentia", link: "https://www.autentia.com", imageUrl: "autentia.png", width: "170px"}
-    #- {name: "Genbeta", description: "Genbeta", link: "http://www.genbeta.com/", imageUrl: "genbeta.png", width: "190px"}
+    - {name: "Genbeta", description: "Genbeta", link: "http://www.genbetadev.com/entrevistas/exfest-2016-situandose-entre-los-grandes-eventos-a-nivel-nacional-hablamos-con-los-ponentes", imageUrl: "genbeta.png", width: "190px"}
 
 ---
     # añadidos sin publicar:
