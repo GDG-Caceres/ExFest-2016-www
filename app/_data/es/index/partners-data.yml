@@ -21,6 +21,7 @@
     - {name: "Planticas", description: "Planticas", link: "http://planticas.com", imageUrl: "planticas.png", width: "160px"}
     - {name: "Azulae", description: "Azulae", link: "http://azulae.es", imageUrl: "azulae.png", width: "160px"}
     - {name: "Play My Hit", description: "Play My Hit", link: "https://www.playmyhit.com/", imageUrl: "playmyhit_logo.png", width: "170px"}
+    - {name: "Platzi", description: "Platzi", link: "https://www.platzi.com/", imageUrl: "platzi.png", width: "170px"}
 
 
 
