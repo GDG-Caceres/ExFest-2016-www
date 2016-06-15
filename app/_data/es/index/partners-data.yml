@@ -14,7 +14,7 @@
     - {name: "Worldline", description: "Worldline", link: "http://es.worldline.com/es-es/home.html", imageUrl: "worldline-logo.jpg", width: "140px"}
 
     - {name: "Cerveza Ballut", description: "Cerveza Ballut", link: "http://www.cervezaballut.es", imageUrl: "ballut-logo.png", width: "130px"}
-
+    - {name: "Departamento de Tecnología de Computadores y Comunicaciones", description: "Departamento de Tecnología de Computadores y Comunicaciones", link: "http://tcc.unex.es", imageUrl: "depart.png", width: "200px"}
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png", width: "140px"}
     - {name: "Hotel Don Manuel", description: "Hotel Don Manuel", link: "http://www.atiramhotels.com/hoteles/caceres/hotel-don-manuel-caceres-atiram/", imageUrl: "hotel-Don-Manuel.jpg", width: "160px"}
     - {name: "UEX", description: "UEX", link: "http://www.unex.es/", imageUrl: "uex-logo.jpg", width: "110px"}
